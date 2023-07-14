@@ -1,9 +1,10 @@
 ## Crypto Price Tracker
 
-<img src='https://github.com/japeotter21/cointrack/assets/97000604/8b22c5ac-cd15-4fbf-b415-f1c91dd8bd03' alt='basic UI' height="400" />
+<img src='https://github.com/japeotter21/cointrack/assets/97000604/c0d42c90-fa34-4c10-a03e-df56a5e0278a' alt='basic UI' height="400" />
 
 To-Do:
 - Edit list (add, delete, alert)
+- Express service to AWS
 - Track % change
 - Sort list (favorites, price change, price)
 - Notifications to desktop
